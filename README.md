@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white" alt="Python Version">
+  <img src="https://img.shields.io/badge/License-MIT-green?logo=open-source-initiative&logoColor=white" alt="License">
+  <img src="https://img.shields.io/badge/Status-Active-success?logo=github&logoColor=white" alt="Status">
+  <img src="https://img.shields.io/badge/Platform-Windows-lightgrey?logo=windows&logoColor=white" alt="Platform">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/d3nn3s08/Kreativ3D-Kostenrechner?logo=github&color=gold" alt="Latest Release">
+  <img src="https://img.shields.io/github/downloads/d3nn3s08/Kreativ3D-Kostenrechner/total?color=brightgreen&logo=github" alt="Downloads">
+  <img src="https://img.shields.io/github/last-commit/d3nn3s08/Kreativ3D-Kostenrechner?color=blue&logo=git" alt="Last Commit">
+</p>
+
 # 👋 Hi, ich bin Denis alias DarkSoul86
 
 Willkommen auf meinem GitHub-Profil!  
