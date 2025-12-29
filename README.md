@@ -72,10 +72,6 @@ Ein Desktop-Tool zur **ehrlichen und transparenten Kalkulation von 3D-Druckkoste
 
 ---
 
-## 📈 GitHub-Statistiken
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3nn3s08&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d3nn3s08&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
